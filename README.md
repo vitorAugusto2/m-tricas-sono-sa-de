@@ -1,11 +1,9 @@
-# Sobre o Conjunto de Dados
-## Métricas Abrangentes de Sono e Saúde
-### Uma Visão Detalhada dos Padrões de Sono Sintéticos e Fatores Influentes
+# Métricas Abrangentes de Sono e Saúde: Uma Visão Detalhada dos Padrões de Sono Sintéticos e Fatores Influentes
 
 ## Introdução ao Conjunto de Dados
-O conjunto de dados **Métricas Abrangentes de Sono e Saúde** é uma coleção totalmente sintética projetada para fornecer uma visão extensa de como vários fatores podem influenciar a qualidade do sono e a saúde geral. Este conjunto de dados é criado para simular uma ampla gama de cenários e condições, oferecendo uma base robusta para modelagem preditiva e estudos analíticos. Ao utilizar dados sintéticos, o conjunto de dados garante uma representação abrangente das possíveis variações e interações nas métricas de sono e saúde.
+O conjunto de dados [Métricas Abrangentes de Sono e Saúde](https://www.kaggle.com/datasets/uom190346a/sleep-and-health-metrics/data) é uma coleção totalmente sintética projetada para fornecer uma visão extensa de como vários fatores podem influenciar a qualidade do sono e a saúde geral. Este conjunto de dados é criado para simular uma ampla gama de cenários e condições, oferecendo uma base robusta para modelagem preditiva e estudos analíticos. Ao utilizar dados sintéticos, o conjunto de dados garante uma representação abrangente das possíveis variações e interações nas métricas de sono e saúde.
 
-## Descrição do Conjunto de Dados
+### Descrição 
 O conjunto de dados inclui uma variedade diversificada de medições sintéticas, abrangendo:
 
 - **Heart Rate Variability (Variabilidade da Frequência Cardíaca):** Variabilidade simulada nos intervalos de tempo entre batimentos cardíacos.
