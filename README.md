@@ -18,5 +18,5 @@ O conjunto de dados inclui uma variedade diversificada de medições sintéticas
 
 O uso de dados sintéticos neste conjunto de dados permite uma exploração controlada e variada de como diferentes fatores podem interagir para influenciar a qualidade do sono, o que pode ser particularmente útil para o desenvolvimento e teste de modelos preditivos.
 
-## Tarefa de Previsão
-O objetivo é prever a **Sleep Quality Score (Pontuação de Qualidade do Sono)** com base nas outras métricas sintéticas de saúde e sono. Esta análise preditiva visa descobrir padrões e relacionamentos dentro dos dados simulados, fornecendo insights sobre fatores que podem impactar a qualidade do sono e orientando o desenvolvimento de estratégias para melhorar a saúde do sono.
+## Previsão
+O objetivo é prever a **Sleep Quality Score (Pontuação de Qualidade do Sono)** com base nas outras métricas sintéticas de saúde e sono utilizando o Modelo RandomForest. Esta análise preditiva visa descobrir padrões e relacionamentos dentro dos dados simulados, demonstrando fatores que podem impactar a qualidade do sono e orientando o desenvolvimento de estratégias para melhorar a saúde do sono.
